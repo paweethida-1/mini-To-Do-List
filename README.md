@@ -1,4 +1,4 @@
-# 🧩 Mini Project — To-Do List
+# 🧩 To-Do List
 
 A clean and minimal **To-Do List web app** built using **HTML**, **CSS**, and **JavaScript**.  
 This project is part of my *Front-End Practice Series*, focusing on DOM manipulation, event handling, and localStorage.
