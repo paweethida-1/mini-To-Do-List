@@ -6,7 +6,7 @@ This project is part of my *Front-End Practice Series*, focusing on DOM manipula
 ---
 
 ## 🚀 Live Demo  
-🔗 [https://paweethida-1.github.io/mini-todo-list/](https://paweethida-1.github.io/mini-todo-list/)
+🔗 [https://paweethida-1.github.io/mini-todo-list/](https://paweethida-1.github.io/mini-To-Do-List/)
 
 ---
 
