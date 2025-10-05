@@ -1,11 +1,5 @@
 # 🧩 Mini Project — To-Do List
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 A clean and minimal **To-Do List web app** built using **HTML**, **CSS**, and **JavaScript**.  
 This project is part of my *Front-End Practice Series*, focusing on DOM manipulation, event handling, and localStorage.
 
@@ -28,4 +22,4 @@ This project is part of my *Front-End Practice Series*, focusing on DOM manipula
 | 📱 **Responsive Design** | Works perfectly on both desktop and mobile |
 
 ---
-
+<img src="./Screenshot 2568-10-06 at 00.10.14.png" width="420px" alt="Calculator Screenshot">
